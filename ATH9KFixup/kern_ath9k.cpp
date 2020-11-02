@@ -8,6 +8,7 @@
 //
 
 #include <Headers/kern_api.hpp>
+#include <LegacyIOService.h>
 
 #include "kern_ath9k.hpp"
 #include "kern_ath9300.h"
